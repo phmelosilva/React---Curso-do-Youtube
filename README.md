@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Capacitação em React
+
+## Projeto voltado para capacitação em React para aplicação no curso de Engenharia de Software
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
